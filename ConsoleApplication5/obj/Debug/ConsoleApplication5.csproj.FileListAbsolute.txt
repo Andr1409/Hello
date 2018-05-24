@@ -1,0 +1,5 @@
+C:\Users\МАРИНА\Desktop\Андрей\ConsoleApplication20\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\МАРИНА\Desktop\Андрей\ConsoleApplication20\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\МАРИНА\Desktop\Андрей\ConsoleApplication20\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\МАРИНА\Desktop\Андрей\ConsoleApplication20\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\МАРИНА\Desktop\Андрей\ConsoleApplication20\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
